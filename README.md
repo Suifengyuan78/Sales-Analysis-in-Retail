@@ -14,7 +14,7 @@ All setup and resource files can be [downloaded from GitHub](https://github.com/
 - PowerBI Service
 
 
-## Workshop presentation includes 25 slides
+## Workshop presentation 
 
-
+Check the file "LinkedInPost for Data Analytics.pdf" which includes 25 slides
 
